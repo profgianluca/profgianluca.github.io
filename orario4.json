@@ -1,0 +1,136 @@
+{
+    "lunedi": [{
+            "ora": "8:10-9:10",
+            "materia": "inglese",
+
+        }, {
+            "ora": "9:10-10:10",
+            "materia": "matematica/fisica",
+
+        }, {
+            "ora": "10:15-11:10",
+            "materia": "matematica/fisica",
+
+        }, {
+            "ora": "11:10-12:05",
+            "materia": "italiano/latino",
+
+        }, {
+            "ora": "12:15-13:10",
+            "materia": "italiano/latino",
+
+        }, {
+            "ora": "13:10-14:05",
+            "materia": "storia/filosofia",
+
+        }
+    ],
+    "martedi": [{
+            "ora": "8:10-9:10",
+            "materia": "italiano/latino",
+
+        }, {
+            "ora": "9:10-10:10",
+            "materia": "inglese",
+
+        }, {
+            "ora": "10:15-11:10",
+            "materia": "italiano/latino",
+
+        }, {
+            "ora": "11:10-12:05",
+            "materia": "spagnolo/biomedico/informatica",
+
+        }, {
+            "ora": "12:15-13:10",
+            "materia": "religione",
+
+        }, {
+            "ora": "13:10-14:05",
+            "materia": "matematica/fisica",
+
+        }
+    ],
+    "mercoledi": [{
+            "ora": "8:10-9:10",
+            "materia": "storia/filosofia",
+
+        }, {
+            "ora": "9:10-10:10",
+            "materia": "matematica/fisica",
+
+        }, {
+            "ora": "10:15-11:10",
+            "materia": "matematica/fisica",
+
+        }, {
+            "ora": "11:10-12:05",
+            "materia": "inglese",
+
+        }, {
+            "ora": "12:15-13:10",
+            "materia": "italiano/latino",
+
+        }, {
+            "ora": "13:10-14:05",
+            "materia": "storia/filosofia",
+
+        }
+    ],
+    "giovedi": [{
+            "ora": "8:10-9:10",
+            "materia": "matematica/fisica",
+
+        }, {
+            "ora": "9:10-10:10",
+            "materia": "matematica/fisica",
+
+        }, {
+            "ora": "10:15-11:10",
+            "materia": "arte",
+
+        }, {
+            "ora": "11:10-12:05",
+            "materia": "arte",
+
+        }, {
+            "ora": "12:15-13:10",
+            "materia": "educazione fisica",
+
+        }, {
+            "ora": "13:10-14:05",
+            "materia": "educazione fisica",
+
+        }
+    ],
+    "lunedi": [{
+            "ora": "8:10-9:00",
+            "materia": "scienze",
+
+        }, {
+            "ora": "9:00-9:50",
+            "materia": "scienze",
+
+        }, {
+            "ora": "9:50-10:40",
+            "materia": "spagnolo/biomedico/informatica",
+
+        }, {
+            "ora": "10:50-11:40",
+            "materia": "inglese conversazione",
+
+        }, {
+            "ora": "11:40-12:30",
+            "materia": "italiano/latino",
+
+        }, {
+            "ora": "12:40-13:30",
+            "materia": "storia/filosofia",
+
+        }, {
+            "ora": "13:30-14:20",
+            "materia": "storia/filosofia",
+
+        }
+    ],
+}
