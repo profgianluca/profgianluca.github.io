@@ -1,0 +1,133 @@
+{
+    "lunedi": [{
+            "ora": "8:10-9:10",
+            "materia": "Meli"
+
+        }, {
+            "ora": "9:10-10:10",
+            "materia": "Meli"
+
+        }, {
+            "ora": "10:15-11:10",
+            "materia": "Ferrario"
+
+        }, {
+            "ora": "11:10-12:05",
+            "materia": "Ferrario"
+
+        }, {
+            "ora": "12:15-13:10",
+            "materia": "Pozzi"
+
+        }, {
+            "ora": "13:10-14:05",
+            "materia": "Pozzi"
+
+        }
+    ],
+    "martedi": [{
+            "ora": "8:10-9:10",
+            "materia": "Penzo"
+
+        }, {
+            "ora": "9:10-10:10",
+            "materia": "Martelli"
+
+        }, {
+            "ora": "10:15-11:10",
+            "materia": "Pozzi"
+
+        }, {
+            "ora": "11:10-12:05",
+            "materia": "Bertani"
+
+        }, {
+            "ora": "12:15-13:10",
+            "materia": "Gnaccolini"
+
+        }, {
+            "ora": "13:10-14:05",
+            "materia": "Cisana/Sciarra/Bertolini"
+        }
+    ],
+    "mercoledi": [{
+            "ora": "8:10-9:10",
+            "materia": "Bertolini"
+
+        }, {
+            "ora": "9:10-10:10",
+            "materia": "Bertani"
+
+        }, {
+            "ora": "10:15-11:10",
+            "materia": "Gnaccolini"
+
+        }, {
+            "ora": "11:10-12:05",
+            "materia": "Gnaccolini"
+
+        }, {
+            "ora": "12:15-13:10",
+            "materia": "Pozzi"
+
+        }, {
+            "ora": "13:10-14:05",
+            "materia": "Penzo"
+
+        }
+    ],
+    "giovedi": [{
+            "ora": "8:10-9:10",
+            "materia": "Gnaccolini"
+
+        }, {
+            "ora": "9:10-10:10",
+            "materia": "Bertani"
+
+        }, {
+            "ora": "10:15-11:10",
+            "materia": "Pozzi"
+
+        }, {
+            "ora": "11:10-12:05",
+            "materia": "Bertani"
+
+        }, {
+            "ora": "12:15-13:10",
+            "materia": "Bertolini"
+
+        }, {
+            "ora": "13:10-14:05",
+            "materia": "Penzo"
+
+        }
+    ],
+    "venerdi": [{
+            "ora": "8:10-9:00",
+            "materia": "Cisana/Sciarra/Bertolini"
+
+        }, {
+            "ora": "9:00-9:50",
+            "materia": "Bertolini"
+
+        }, {
+            "ora": "9:50-10:40",
+            "materia": "Bertani"
+
+        }, {
+            "ora": "10:50-11:40",
+            "materia": "Bertani"
+
+        }, {
+            "ora": "11:40-12:30",
+            "materia": "Marsili"
+
+        }, {
+            "ora": "12:40-13:30",
+            "materia": "Gnaccolini"
+        },{
+            "ora": "13:30-14:20",
+            "materia": "Gnaccolini"
+        }
+    ]
+}
