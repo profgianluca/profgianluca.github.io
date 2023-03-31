@@ -131,5 +131,10 @@
             "materia": "Bianchi"
 
         }
+    ],"eventi": [{
+            "data": "oggi"
+            "ora": "9:00-9:50",
+            "descrizione": "prova"
+        }, 
     ]
 }
