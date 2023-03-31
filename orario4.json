@@ -27,108 +27,108 @@
     ],
     "martedi": [{
             "ora": "8:10-9:10",
-            "materia": "italiano/latino"
+            "materia": "Maraggi"
 
         }, {
             "ora": "9:10-10:10",
-            "materia": "inglese"
+            "materia": "Penzo"
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "italiano/latino"
+            "materia": "Maraggi"
 
         }, {
             "ora": "11:10-12:05",
-            "materia": "spagnolo/biomedico/informatica"
+            "materia": "Sciarra/Carelli/Cisana"
 
         }, {
             "ora": "12:15-13:10",
-            "materia": "religione"
+            "materia": "Martelli"
 
         }, {
             "ora": "13:10-14:05",
-            "materia": "matematica/fisica"
+            "materia": "Braggion"
         }
     ],
     "mercoledi": [{
             "ora": "8:10-9:10",
-            "materia": "storia/filosofia"
+            "materia": "Bianchi"
 
         }, {
             "ora": "9:10-10:10",
-            "materia": "matematica/fisica"
+            "materia": "Braggion"
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "matematica/fisica"
+            "materia": "Braggion"
 
         }, {
             "ora": "11:10-12:05",
-            "materia": "inglese"
+            "materia": "Penzo"
 
         }, {
             "ora": "12:15-13:10",
-            "materia": "italiano/latino"
+            "materia": "Maraggi"
 
         }, {
             "ora": "13:10-14:05",
-            "materia": "storia/filosofia"
+            "materia": "Bianchi"
 
         }
     ],
     "giovedi": [{
             "ora": "8:10-9:10",
-            "materia": "matematica/fisica"
+            "materia": "Braggion"
 
         }, {
             "ora": "9:10-10:10",
-            "materia": "matematica/fisica"
+            "materia": "Braggion"
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "arte"
+            "materia": "Meli"
 
         }, {
             "ora": "11:10-12:05",
-            "materia": "arte"
+            "materia": "Meli"
 
         }, {
             "ora": "12:15-13:10",
-            "materia": "educazione fisica"
+            "materia": "Ferrario"
 
         }, {
             "ora": "13:10-14:05",
-            "materia": "educazione fisica"
+            "materia": "Ferrario"
 
         }
     ],
     "venerdi": [{
             "ora": "8:10-9:00",
-            "materia": "scienze"
+            "materia": "Carelli"
 
         }, {
             "ora": "9:00-9:50",
-            "materia": "scienze"
+            "materia": "Carelli"
 
         }, {
             "ora": "9:50-10:40",
-            "materia": "spagnolo/biomedico/informatica"
+            "materia": "Sciarra/Carelli/Cisana"
 
         }, {
             "ora": "10:50-11:40",
-            "materia": "inglese conversazione"
+            "materia": "Marsili"
 
         }, {
             "ora": "11:40-12:30",
-            "materia": "italiano/latino"
+            "materia": "Maraggi"
 
         }, {
             "ora": "12:40-13:30",
-            "materia": "storia/filosofia"
+            "materia": "Bianchi"
 
         }, {
             "ora": "13:30-14:20",
-            "materia": "storia/filosofia"
+            "materia": "Bianchi"
 
         }
     ]
