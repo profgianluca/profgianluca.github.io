@@ -140,6 +140,11 @@
             "data": "16/04/2023",
             "ora": "9:00-9:50",
             "descrizione": "prova 2"
-        }                 
+        },
+        {
+            "data": "20/04/2023",
+            "ora": "9:00-9:50",
+            "descrizione": "prova 3"
+        }                     
     ]
 }
