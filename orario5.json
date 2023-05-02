@@ -129,5 +129,20 @@
             "ora": "13:30-14:20",
             "materia": "Maraggi"
         }
+    ],"eventi": [{
+            "data": "19/05/2023",
+            "ora": "9:00-9:50",
+            "descrizione": "prova"
+        },
+        {
+            "data": "16/05/2023",
+            "ora": "9:00-9:50",
+            "descrizione": "prova 2"
+        },
+        {
+            "data": "21/04/2023",
+            "ora": "9:00-9:50",
+            "descrizione": "prova 3"
+        }                     
     ]
 }
