@@ -126,5 +126,20 @@
             "ora": "12:40-13:30",
             "materia": "Cisana/Sciarra"
         }
+    ],"eventi": [{
+            "data": "19/05/2023",
+            "ora": "9:00-9:50",
+            "descrizione": "prova"
+        },
+        {
+            "data": "16/05/2023",
+            "ora": "9:00-9:50",
+            "descrizione": "prova 2"
+        },
+        {
+            "data": "21/04/2023",
+            "ora": "9:00-9:50",
+            "descrizione": "prova 3"
+        }                     
     ]
 }
