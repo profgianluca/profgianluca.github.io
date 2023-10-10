@@ -1,41 +1,66 @@
 {
     "lunedi": [{
             "ora": "8:10-9:10",
-            "materia": "Bertani"
-
-        }, {
-            "ora": "9:10-10:10",
-            "materia": "Zuretti"
-
-        }, {
-            "ora": "10:15-11:10",
             "materia": "Penzo"
 
         }, {
+            "ora": "9:10-10:10",
+            "materia": "Pozzi"
+
+        }, {
+            "ora": "10:15-11:10",
+            "materia": "Costa"
+
+        }, {
             "ora": "11:10-12:05",
-            "materia": "Bertani"
+            "materia": "Costa"
 
         }, {
             "ora": "12:15-13:10",
-            "materia": "Braggion"
+            "materia": "Occhipinti"
 
         }, {
             "ora": "13:10-14:05",
-            "materia": "Braggion"
+            "materia": "Occhipinti"
 
         }
     ],
     "martedi": [{
             "ora": "8:10-9:10",
-            "materia": "Martelli"
+            "materia": "Piantanida"
 
         }, {
             "ora": "9:10-10:10",
-            "materia": "Cisana/Sciarra"
+            "materia": "Piantanida"
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "Braggion"
+            "materia": "Martelli"
+
+        }, {
+            "ora": "11:10-12:05",
+            "materia": "Cisana/Sciarra"
+
+        }, {
+            "ora": "12:15-13:10",
+            "materia": "Pozzi"
+
+        }, {
+            "ora": "13:10-14:05",
+            "materia": "Piantanida"
+        }
+    ],
+    "mercoledi": [{
+            "ora": "8:10-9:10",
+            "materia": "Occhipinti"
+
+        }, {
+            "ora": "9:10-10:10",
+            "materia": "Occhipinti"
+
+        }, {
+            "ora": "10:15-11:10",
+            "materia": "Penzo"
 
         }, {
             "ora": "11:10-12:05",
@@ -43,103 +68,68 @@
 
         }, {
             "ora": "12:15-13:10",
-            "materia": "Braggion"
+            "materia": "Gnaccolini"
 
         }, {
             "ora": "13:10-14:05",
-            "materia": "Bertani"
-        }
-    ],
-    "mercoledi": [{
-            "ora": "8:10-9:10",
-            "materia": "Braggion"
-
-        }, {
-            "ora": "9:10-10:10",
-            "materia": "Zuretti"
-
-        }, {
-            "ora": "10:15-11:10",
-            "materia": "Bertani"
-
-        }, {
-            "ora": "11:10-12:05",
-            "materia": "Bertani"
-
-        }, {
-            "ora": "12:15-13:10",
-            "materia": "Ferrario"
-
-        }, {
-            "ora": "13:10-14:05",
-            "materia": "Ferrario"
+            "materia": "Pozzi"
 
         }
     ],
     "giovedi": [{
             "ora": "8:10-9:10",
-            "materia": "Bertani"
+            "materia": "Giani"
 
         }, {
             "ora": "9:10-10:10",
-            "materia": "Penzo"
+            "materia": "Giani"
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "Zuretti"
+            "materia": "Penzo"
 
         }, {
             "ora": "11:10-12:05",
-            "materia": "Zuretti"
+            "materia": "Bertolini"
 
         }, {
             "ora": "12:15-13:10",
-            "materia": "Braggion"
+            "materia": "Occhipinti"
 
         }, {
             "ora": "13:10-14:05",
-            "materia": "Braggion"
+            "materia": "Occhipinti"
 
         }
     ],
     "venerdi": [{
             "ora": "8:10-9:00",
-            "materia": "Giani"
-
-        }, {
-            "ora": "9:00-9:50",
-            "materia": "Giani"
-
-        }, {
-            "ora": "9:50-10:40",
             "materia": "Marsili"
 
         }, {
+            "ora": "9:00-9:50",
+            "materia": "Occhipinti"
+
+        }, {
+            "ora": "9:50-10:40",
+            "materia": "Piantanida"
+
+        }, {
             "ora": "10:50-11:40",
-            "materia": "Bertolini"
+            "materia": "Gnaccolini"
 
         }, {
             "ora": "11:40-12:30",
-            "materia": "Bertani"
+            "materia": "Piantanida"
 
         }, {
             "ora": "12:40-13:30",
             "materia": "Cisana/Sciarra"
         }
     ],"eventi": [{
-            "data": "19/05/2023",
-            "ora": "09:00-09:50",
-            "descrizione": "prova"
-        },
-        {
-            "data": "16/05/2023",
-            "ora": "09:00-09:50",
-            "descrizione": "prova 2"
-        },
-        {
-            "data": "21/04/2023",
-            "ora": "09:00-09:50",
-            "descrizione": "prova 3"
-        }                     
+            "data": "20/10/2023",
+            "ora": "08:00-18:30",
+            "descrizione": "Gita Inizio Anno"
+        }                    
     ]
 }
