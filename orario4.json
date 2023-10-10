@@ -140,6 +140,16 @@
             "data": "14/10/2023",
             "ora": "09:00-12:00",
             "descrizione": "Open Day"
+        },
+        {
+            "data": "11/11/2023",
+            "ora": "09:00-12:00",
+            "descrizione": "Open Day"
+        },
+        {
+            "data": "2/12/2023",
+            "ora": "09:00-12:00",
+            "descrizione": "Open Day"
         }    
     ]
 }
