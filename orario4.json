@@ -9,19 +9,19 @@
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "Maraggi"
+            "materia": "Costa"
 
         }, {
             "ora": "11:10-12:05",
-            "materia": "Pozzi"
+            "materia": "Costa"
 
         }, {
             "ora": "12:15-13:10",
-            "materia": "Costa"
+            "materia": "Maraggi"
 
         }, {
             "ora": "13:10-14:05",
-            "materia": "Costa"
+            "materia": "Pozzi"
 
         }
     ],
@@ -90,11 +90,11 @@
 
         }, {
             "ora": "11:10-12:05",
-            "materia": "Maraggi"
+            "materia": "Meli"
 
         }, {
             "ora": "12:15-13:10",
-            "materia": "Gnaccolini"
+            "materia": "Meli"
 
         }, {
             "ora": "13:10-14:05",
@@ -108,11 +108,11 @@
 
         }, {
             "ora": "9:00-9:50",
-            "materia": "Marsili"
+            "materia": "Gnaccolini"
 
         }, {
             "ora": "9:50-10:40",
-            "materia": "Gnaccolini"
+            "materia": "Marsili"
 
         }, {
             "ora": "10:50-11:40",
@@ -132,14 +132,9 @@
 
         }
     ],"eventi": [{
-            "data": "20/10/2023",
+            "data": "03/11/2023",
             "ora": "08:00-18:30",
             "descrizione": "Gita Inizio Anno"
-        },
-        {
-            "data": "14/10/2023",
-            "ora": "09:00-12:00",
-            "descrizione": "Open Day"
         },
         {
             "data": "11/11/2023",
