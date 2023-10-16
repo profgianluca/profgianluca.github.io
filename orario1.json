@@ -1,27 +1,27 @@
 {
     "lunedi": [{
             "ora": "8:10-9:10",
-            "materia": "Penzo"
+            "materia": "Occhipinti"
 
         }, {
             "ora": "9:10-10:10",
-            "materia": "Pozzi"
+            "materia": "Occhipinti"
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "Costa"
+            "materia": "Penzo"
 
         }, {
             "ora": "11:10-12:05",
-            "materia": "Costa"
+            "materia": "Pozzi"
 
         }, {
             "ora": "12:15-13:10",
-            "materia": "Occhipinti"
+            "materia": "Costa"
 
         }, {
             "ora": "13:10-14:05",
-            "materia": "Occhipinti"
+            "materia": "Costa"
 
         }
     ],
@@ -60,7 +60,7 @@
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "Penzo"
+            "materia": "Pozzi"
 
         }, {
             "ora": "11:10-12:05",
@@ -72,7 +72,7 @@
 
         }, {
             "ora": "13:10-14:05",
-            "materia": "Pozzi"
+            "materia": "Penzo"
 
         }
     ],
@@ -112,11 +112,11 @@
 
         }, {
             "ora": "9:50-10:40",
-            "materia": "Piantanida"
+            "materia": "Gnaccolini"
 
         }, {
             "ora": "10:50-11:40",
-            "materia": "Gnaccolini"
+            "materia": "Piantanida"
 
         }, {
             "ora": "11:40-12:30",
@@ -127,14 +127,9 @@
             "materia": "Cisana/Sciarra"
         }
     ],"eventi": [{
-            "data": "20/10/2023",
+            "data": "03/11/2023",
             "ora": "08:00-18:30",
             "descrizione": "Gita Inizio Anno"
-        },
-        {
-            "data": "14/10/2023",
-            "ora": "09:00-12:00",
-            "descrizione": "Open Day"
         },
         {
             "data": "11/11/2023",
