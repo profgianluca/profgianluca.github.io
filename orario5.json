@@ -9,7 +9,7 @@
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "Penzo"
+            "materia": "Meli"
 
         }, {
             "ora": "11:10-12:05",
@@ -82,7 +82,7 @@
 
         }, {
             "ora": "9:10-10:10",
-            "materia": "Bertolini"
+            "materia": "Maraggi"
 
         }, {
             "ora": "10:15-11:10",
@@ -98,7 +98,7 @@
 
         }, {
             "ora": "13:10-14:05",
-            "materia": "Bianchi"
+            "materia": "Bertolini"
 
         }
     ],
@@ -130,14 +130,9 @@
             "materia": "Bianchi"
         }
     ],"eventi": [{
-            "data": "20/10/2023",
+            "data": "03/11/2023",
             "ora": "08:00-18:30",
             "descrizione": "Gita Inizio Anno"
-        },
-        {
-            "data": "14/10/2023",
-            "ora": "09:00-12:00",
-            "descrizione": "Open Day"
         },
         {
             "data": "11/11/2023",
