@@ -126,11 +126,7 @@
             "ora": "12:40-13:30",
             "materia": "Marsili"
         }
-    ],"eventi": [{
-            "data": "03/11/2023",
-            "ora": "08:00-18:30",
-            "descrizione": "Gita Inizio Anno"
-        },
+    ],"eventi": [
         {
             "data": "02/11/2023",
             "ora": "08:00-13:00",
