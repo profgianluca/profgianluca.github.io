@@ -126,11 +126,7 @@
             "ora": "12:40-13:30",
             "materia": "Cisana/Sciarra"
         }
-    ],"eventi": [{
-            "data": "03/11/2023",
-            "ora": "08:00-18:30",
-            "descrizione": "Gita Inizio Anno"
-        },
+    ],"eventi": [
         {
             "data": "11/11/2023",
             "ora": "09:00-12:00",
