@@ -129,11 +129,7 @@
             "ora": "13:30-14:20",
             "materia": "Penzo"
         }
-    ],"eventi": [{
-            "data": "03/11/2023",
-            "ora": "08:00-18:30",
-            "descrizione": "Gita Inizio Anno"
-        },
+    ],"eventi": [
         {
             "data": "11/11/2023",
             "ora": "09:00-12:00",
