@@ -128,9 +128,19 @@
         }
     ],"eventi": [
         {
-            "data": "11/11/2023",
-            "ora": "09:00-12:00",
-            "descrizione": "Open Day"
+            "data": "04/03/2024",
+            "ora": "00:00-24:00",
+            "descrizione": "Gita in Sicilia"
+        },
+        {
+            "data": "05/03/2024",
+            "ora": "00:00-24:00",
+            "descrizione": "Gita in Sicilia"
+        },
+        {
+            "data": "06/03/2024",
+            "ora": "00:00-24:00",
+            "descrizione": "Gita in Sicilia"
         },
         {
             "data": "2/12/2023",
