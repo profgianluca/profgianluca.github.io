@@ -131,26 +131,9 @@
         }
     ],"eventi": [
         {
-            "data": "11/11/2023",
-            "ora": "09:00-12:00",
-            "descrizione": "Open Day"
-        },
-        {
             "data": "2/12/2023",
             "ora": "09:00-12:00",
             "descrizione": "Open Day"
-        },{
-            "data": "14/11/2023",
-            "ora": "00:00-00:00",
-            "descrizione": "Gita a Bruxelles"
-        },{
-            "data": "15/11/2023",
-            "ora": "00:00-00:00",
-            "descrizione": "Gira a Bruxelles"
-        },{
-            "data": "16/11/2023",
-            "ora": "00:00-00:00",
-            "descrizione": "Gita a Bruxelles"
         }
     ]
 }
