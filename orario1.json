@@ -27,7 +27,7 @@
     ],
     "martedi": [{
             "ora": "8:10-9:10",
-            "materia": "Piantanida"
+            "materia": "Occhipinti"
 
         }, {
             "ora": "9:10-10:10",
@@ -104,11 +104,11 @@
     ],
     "venerdi": [{
             "ora": "8:10-9:00",
-            "materia": "Marsili"
+            "materia": "Occhipinti"
 
         }, {
             "ora": "9:00-9:50",
-            "materia": "Occhipinti"
+            "materia": "Marsili"
 
         }, {
             "ora": "9:50-10:40",
