@@ -5,23 +5,23 @@
 
         }, {
             "ora": "9:10-10:10",
-            "materia": "Pozzi"
+            "materia": "Meli"
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "Maraggi"
+            "materia": "Meli"
 
         }, {
             "ora": "11:10-12:05",
-            "materia": "Penzo"
+            "materia": "Maraggi"
 
         }, {
             "ora": "12:15-13:10",
-            "materia": "Meli"
+            "materia": "Pozzi"
 
         }, {
             "ora": "13:10-14:05",
-            "materia": "Meli"
+            "materia": "Penzo"
 
         }
     ],
@@ -39,7 +39,7 @@
 
         }, {
             "ora": "11:10-12:05",
-            "materia": "Bertolini"
+            "materia": "Pozzi"
 
         }, {
             "ora": "12:15-13:10",
@@ -60,7 +60,7 @@
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "Penzo"
+            "materia": "Bertolini"
 
         }, {
             "ora": "11:10-12:05",
@@ -78,11 +78,11 @@
     ],
     "giovedi": [{
             "ora": "8:10-9:10",
-            "materia": "Bertolini"
+            "materia": "Penzo"
 
         }, {
             "ora": "9:10-10:10",
-            "materia": "Gnaccolini"
+            "materia": "Maraggi"
 
         }, {
             "ora": "10:15-11:10",
@@ -90,7 +90,7 @@
 
         }, {
             "ora": "11:10-12:05",
-            "materia": "Maraggi"
+            "materia": "Gnaccolini"
 
         }, {
             "ora": "12:15-13:10",
@@ -112,15 +112,15 @@
 
         }, {
             "ora": "9:50-10:40",
-            "materia": "Cisana/Sciarra/Bertolini"
+            "materia": "Marsili"
 
         }, {
             "ora": "10:50-11:40",
-            "materia": "Zuretti"
+            "materia": "Cisana/Sciarra/Bertolini"
 
         }, {
             "ora": "11:40-12:30",
-            "materia": "Marsili"
+            "materia": "Gnaccolini"
 
         }, {
             "ora": "12:40-13:30",
