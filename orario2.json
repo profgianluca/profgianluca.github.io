@@ -5,11 +5,11 @@
 
         }, {
             "ora": "9:10-10:10",
-            "materia": "Penzo"
+            "materia": "Braggion"
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "Pozzi"
+            "materia": "Penzo"
 
         }, {
             "ora": "11:10-12:05",
@@ -21,7 +21,7 @@
 
         }, {
             "ora": "13:10-14:05",
-            "materia": "Zuretti"
+            "materia": "Pozzi"
 
         }
     ],
@@ -31,11 +31,11 @@
 
         }, {
             "ora": "9:10-10:10",
-            "materia": "Braggion"
+            "materia": "Cisana/Sciarra"
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "Cisana/Sciarra"
+            "materia": "Braggion"
 
         }, {
             "ora": "11:10-12:05",
@@ -52,11 +52,11 @@
     ],
     "mercoledi": [{
             "ora": "8:10-9:10",
-            "materia": "Giani"
+            "materia": "Bertolini"
 
         }, {
             "ora": "9:10-10:10",
-            "materia": "Bertolini"
+            "materia": "Pozzi"
 
         }, {
             "ora": "10:15-11:10",
@@ -86,19 +86,19 @@
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "Ferrario"
+            "materia": "Giani"
 
         }, {
             "ora": "11:10-12:05",
-            "materia": "Ferrario"
+            "materia": "Giani"
 
         }, {
             "ora": "12:15-13:10",
-            "materia": "Giani"
+            "materia": "Ferrario"
 
         }, {
             "ora": "13:10-14:05",
-            "materia": "Giani"
+            "materia": "Ferrario"
 
         }
     ],
@@ -116,11 +116,11 @@
 
         }, {
             "ora": "10:50-11:40",
-            "materia": "Zuretti"
+            "materia": "Cisana/Sciarra"
 
         }, {
             "ora": "11:40-12:30",
-            "materia": "Cisana/Sciarra"
+            "materia": "Zuretti"
 
         }, {
             "ora": "12:40-13:30",
