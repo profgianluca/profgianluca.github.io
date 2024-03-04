@@ -5,7 +5,7 @@
 
         }, {
             "ora": "9:10-10:10",
-            "materia": "Braggion"
+            "materia": "Bertolini"
 
         }, {
             "ora": "10:15-11:10",
@@ -17,7 +17,7 @@
 
         }, {
             "ora": "12:15-13:10",
-            "materia": "Bertolini"
+            "materia": "Braggion"
 
         }, {
             "ora": "13:10-14:05",
@@ -31,15 +31,15 @@
 
         }, {
             "ora": "9:10-10:10",
-            "materia": "Cisana/Sciarra/Bertolini"
+            "materia": "Maraggi"
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "Braggion"
+            "materia": "Cisana/Sciarra/Bertolini"
 
         }, {
             "ora": "11:10-12:05",
-            "materia": "Maraggi"
+            "materia": "Braggion"
 
         }, {
             "ora": "12:15-13:10",
@@ -78,7 +78,7 @@
     ],
     "giovedi": [{
             "ora": "8:10-9:10",
-            "materia": "Bianchi"
+            "materia": "Braggion"
 
         }, {
             "ora": "9:10-10:10",
@@ -86,7 +86,7 @@
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "Braggion"
+            "materia": "Meli"
 
         }, {
             "ora": "11:10-12:05",
@@ -94,33 +94,33 @@
 
         }, {
             "ora": "12:15-13:10",
-            "materia": "Meli"
+            "materia": "Penzo"
 
         }, {
             "ora": "13:10-14:05",
-            "materia": "Maraggi"
+            "materia": "Bianchi"
 
         }
     ],
     "venerdi": [{
             "ora": "8:10-9:00",
-            "materia": "Maraggi"
+            "materia": "Bianchi"
 
         }, {
             "ora": "9:00-9:50",
-            "materia": "Cisana/Sciarra/Bertolini"
-
-        }, {
-            "ora": "9:50-10:40",
-            "materia": "Bertolini"
-
-        }, {
-            "ora": "10:50-11:40",
             "materia": "Marsili"
 
         }, {
-            "ora": "11:40-12:30",
+            "ora": "9:50-10:40",
+            "materia": "Maraggi"
+
+        }, {
+            "ora": "10:50-11:40",
             "materia": "Penzo"
+
+        }, {
+            "ora": "11:40-12:30",
+            "materia": "Cisana/Sciarra/Bertolini"
 
         }, {
             "ora": "12:40-13:30",
@@ -130,10 +130,6 @@
             "materia": "Bianchi"
         }
     ],"eventi": [
-        {
-            "data": "2/12/2023",
-            "ora": "09:00-12:00",
-            "descrizione": "Open Day"
-        }
+        {}
     ]
 }
