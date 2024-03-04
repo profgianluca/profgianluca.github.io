@@ -5,23 +5,23 @@
 
         }, {
             "ora": "9:10-10:10",
-            "materia": "Bertolini"
-
-        }, {
-            "ora": "10:15-11:10",
-            "materia": "Costa"
-
-        }, {
-            "ora": "11:10-12:05",
-            "materia": "Costa"
-
-        }, {
-            "ora": "12:15-13:10",
             "materia": "Maraggi"
 
         }, {
-            "ora": "13:10-14:05",
+            "ora": "10:15-11:10",
+            "materia": "Bertolini"
+
+        }, {
+            "ora": "11:10-12:05",
             "materia": "Pozzi"
+
+        }, {
+            "ora": "12:15-13:10",
+            "materia": "Costa"
+
+        }, {
+            "ora": "13:10-14:05",
+            "materia": "Costa"
 
         }
     ],
@@ -31,7 +31,7 @@
 
         }, {
             "ora": "9:10-10:10",
-            "materia": "Pozzi"
+            "materia": "Martelli"
 
         }, {
             "ora": "10:15-11:10",
@@ -43,16 +43,16 @@
 
         }, {
             "ora": "12:15-13:10",
-            "materia": "Cisana/Sciarra/Bertolini"
+            "materia": "Pozzi"
 
         }, {
             "ora": "13:10-14:05",
-            "materia": "Martelli"
+            "materia": "Cisana/Sciarra/Bertolini"
         }
     ],
     "mercoledi": [{
             "ora": "8:10-9:10",
-            "materia": "Bertolini"
+            "materia": "Maraggi"
 
         }, {
             "ora": "9:10-10:10",
@@ -60,7 +60,7 @@
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "Maraggi"
+            "materia": "Bertolini"
 
         }, {
             "ora": "11:10-12:05",
@@ -78,15 +78,15 @@
     ],
     "giovedi": [{
             "ora": "8:10-9:10",
-            "materia": "Bertolini"
+            "materia": "Maraggi"
 
         }, {
             "ora": "9:10-10:10",
-            "materia": "Penzo"
+            "materia": "Gnaccolini"
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "Meli"
+            "materia": "Gnaccolini"
 
         }, {
             "ora": "11:10-12:05",
@@ -94,11 +94,11 @@
 
         }, {
             "ora": "12:15-13:10",
-            "materia": "Gnaccolini"
+            "materia": "Meli"
 
         }, {
             "ora": "13:10-14:05",
-            "materia": "Gnaccolini"
+            "materia": "Bertolini"
 
         }
     ],
@@ -116,11 +116,11 @@
 
         }, {
             "ora": "10:50-11:40",
-            "materia": "Penzo"
+            "materia": "Gnaccolini"
 
         }, {
             "ora": "11:40-12:30",
-            "materia": "Pozzi"
+            "materia": "Penzo"
 
         }, {
             "ora": "12:40-13:30",
@@ -132,10 +132,6 @@
 
         }
     ],"eventi": [
-        {
-            "data": "2/12/2023",
-            "ora": "09:00-12:00",
-            "descrizione": "Open Day"
-        }    
+        {}    
     ]
 }
