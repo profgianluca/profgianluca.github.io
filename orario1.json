@@ -9,19 +9,19 @@
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "Penzo"
+            "materia": "Costa"
 
         }, {
             "ora": "11:10-12:05",
-            "materia": "Pozzi"
+            "materia": "Costa"
 
         }, {
             "ora": "12:15-13:10",
-            "materia": "Costa"
+            "materia": "Pozzi"
 
         }, {
             "ora": "13:10-14:05",
-            "materia": "Costa"
+            "materia": "Penzo"
 
         }
     ],
@@ -35,7 +35,7 @@
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "Martelli"
+            "materia": "Piantanida"
 
         }, {
             "ora": "11:10-12:05",
@@ -43,7 +43,7 @@
 
         }, {
             "ora": "12:15-13:10",
-            "materia": "Pozzi"
+            "materia": "Martelli"
 
         }, {
             "ora": "13:10-14:05",
@@ -108,7 +108,7 @@
 
         }, {
             "ora": "9:00-9:50",
-            "materia": "Marsili"
+            "materia": "Piantanida"
 
         }, {
             "ora": "9:50-10:40",
@@ -120,7 +120,7 @@
 
         }, {
             "ora": "11:40-12:30",
-            "materia": "Piantanida"
+            "materia": "Marsili"
 
         }, {
             "ora": "12:40-13:30",
