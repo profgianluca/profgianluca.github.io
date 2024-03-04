@@ -5,29 +5,29 @@
 
         }, {
             "ora": "9:10-10:10",
-            "materia": "Meli"
+            "materia": "Penzo"
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "Meli"
-
-        }, {
-            "ora": "11:10-12:05",
-            "materia": "Maraggi"
-
-        }, {
-            "ora": "12:15-13:10",
             "materia": "Pozzi"
 
         }, {
+            "ora": "11:10-12:05",
+            "materia": "Meli"
+
+        }, {
+            "ora": "12:15-13:10",
+            "materia": "Meli"
+
+        }, {
             "ora": "13:10-14:05",
-            "materia": "Penzo"
+            "materia": "Zuretti"
 
         }
     ],
     "martedi": [{
             "ora": "8:10-9:10",
-            "materia": "Pozzi"
+            "materia": "Piantanida"
 
         }, {
             "ora": "9:10-10:10",
@@ -35,7 +35,7 @@
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "Piantanida"
+            "materia": "Pozzi"
 
         }, {
             "ora": "11:10-12:05",
@@ -43,11 +43,11 @@
 
         }, {
             "ora": "12:15-13:10",
-            "materia": "Martelli"
+            "materia": "Cisana/Sciarra/Bertolini"
 
         }, {
             "ora": "13:10-14:05",
-            "materia": "Cisana/Sciarra/Bertolini"
+            "materia": "Martelli"
         }
     ],
     "mercoledi": [{
@@ -60,7 +60,7 @@
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "Bertolini"
+            "materia": "Penzo"
 
         }, {
             "ora": "11:10-12:05",
@@ -78,7 +78,7 @@
     ],
     "giovedi": [{
             "ora": "8:10-9:10",
-            "materia": "Penzo"
+            "materia": "Bertolini"
 
         }, {
             "ora": "9:10-10:10",
@@ -86,19 +86,19 @@
 
         }, {
             "ora": "10:15-11:10",
-            "materia": "Gnaccolini"
+            "materia": "Ferrario"
 
         }, {
             "ora": "11:10-12:05",
-            "materia": "Gnaccolini"
+            "materia": "Ferrario"
 
         }, {
             "ora": "12:15-13:10",
-            "materia": "Ferrario"
+            "materia": "Gnaccolini"
 
         }, {
             "ora": "13:10-14:05",
-            "materia": "Ferrario"
+            "materia": "Gnaccolini"
 
         }
     ],
@@ -108,15 +108,15 @@
 
         }, {
             "ora": "9:00-9:50",
-            "materia": "Piantanida"
+            "materia": "Cisana/Sciarra/Bertolini"
 
         }, {
             "ora": "9:50-10:40",
-            "materia": "Marsili"
+            "materia": "Bertolini"
 
         }, {
             "ora": "10:50-11:40",
-            "materia": "Cisana/Sciarra/Bertolini"
+            "materia": "Marsili"
 
         }, {
             "ora": "11:40-12:30",
@@ -129,11 +129,6 @@
             "ora": "13:30-14:20",
             "materia": "Penzo"
         }
-    ],"eventi": [
-        {
-            "data": "2/12/2023",
-            "ora": "09:00-12:00",
-            "descrizione": "Open Day"
-        } 
+    ],"eventi": [{}
     ]
 }
